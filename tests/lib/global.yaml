@@ -1,0 +1,10 @@
+#config for gloal
+a:
+    "foo"
+b:
+    "bar"
+c: !!map
+    name:
+        "Apple"
+    shape:
+        "round"
